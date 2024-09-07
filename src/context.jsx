@@ -19,7 +19,7 @@ const AppProvider = ({ children }) => {
       type: "HOME_UPDATE",
       payload: {
         name: "Live Venue",
-        image: "./images/hero2.png",
+        image: "./images/music.jpg",
       },
     });
   };
