@@ -1,7 +1,3 @@
-# reactmultipage
+# Live Venue 🎉
 
-****UPDATE 2-SEP-2022
-The API is not working anymore because the Railway Server has it's limitations and we reached that limitation and we don't have paid subscription of it. 
-But I will surely fix it soon and update the URL link ok. 
-
-Thanks
+**Live Venue** is a dynamic event registration platform designed to streamline college event management. Built using React.js for a responsive frontend, this application allows users to browse events, register, and receive real-time updates.
